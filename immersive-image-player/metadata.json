@@ -1,0 +1,5 @@
+{
+  "name": "Immersive Image Player",
+  "description": "A feature-rich local image slideshow player with random playback, persistence, and full-screen support.",
+  "requestFramePermissions": []
+}
